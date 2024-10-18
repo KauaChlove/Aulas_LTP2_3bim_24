@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManipulandoBotoes", "ManipulandoBotoes\ManipulandoBotoes.csproj", "{E6DC7CCA-D466-435D-B6B4-B485233EF449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validacao CPF", "Validacao CPF\Validacao CPF.csproj", "{776264CE-CCFE-4BC9-8AD2-741B4AF25558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6DC7CCA-D466-435D-B6B4-B485233EF449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6DC7CCA-D466-435D-B6B4-B485233EF449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6DC7CCA-D466-435D-B6B4-B485233EF449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6DC7CCA-D466-435D-B6B4-B485233EF449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776264CE-CCFE-4BC9-8AD2-741B4AF25558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776264CE-CCFE-4BC9-8AD2-741B4AF25558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776264CE-CCFE-4BC9-8AD2-741B4AF25558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776264CE-CCFE-4BC9-8AD2-741B4AF25558}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48B176E6-0E5A-461F-A7A1-D726CB3FA307}
+	EndGlobalSection
+EndGlobal
